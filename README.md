@@ -32,9 +32,11 @@ Logs in to a practice server running on localhost and downloads the list of virt
 | Testing (pytest) | [test_client.py](https://github.com/Lingam-555/AVI-VS-Health-checker/blob/master/test_client.py) |
 | Ansible (basics) | [vs-health.yaml](https://github.com/Lingam-555/AVI-VS-Health-checker-using-ansible/blob/master/vs-health.yaml) |
 | Git | [commit history](https://github.com/Lingam-555/AVI-VS-Health-checker/commits/master) |
+| GitHub Actions | [Workflows](https://github.com/Lingam-555/AVI-VS-Health-checker/tree/master/.github/workflows) |
+|Docker | [Dockerfile](https://github.com/Lingam-555/AVI-VS-Health-checker/blob/master/Dockerfile) |
 
 ## Currently learning
 GitHub Actions, Docker.
 
 ## Planning to start
-Terraform.
+Terraform, K8
